@@ -47,4 +47,5 @@ O resultado deve ser exibido na tela.
 
 https://cardosomath.github.io/decodificador-One/
 
-<img src="img/badge.png" align="center" /></p>
+<h1> :arrow_right: Badge do desafio:</h1> 
+<h2><img src="img/badge.png" align="center" /></p></h2>
